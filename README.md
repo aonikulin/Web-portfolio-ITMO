@@ -30,6 +30,6 @@
 <br>
 <p><a href="https://kodaktor.ru/bind02032018_95a6b">BABL_002</a></p>
 <hr>
-<p><a href="">EVNT_002</a></p>
+<p><a href="https://kodaktor.ru/evnt_a576b">EVNT_002</a></p>
 <hr>
 
