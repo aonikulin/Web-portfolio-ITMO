@@ -24,3 +24,5 @@
 <br>
 <p><a href="https://kodaktor.ru/func_82b68">FUNC_010</a></p>  
 <hr>
+<p><a href="">ASYNC-TASKS</a></p>  
+
