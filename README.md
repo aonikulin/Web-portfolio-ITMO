@@ -32,4 +32,6 @@
 <hr>
 <p><a href="https://kodaktor.ru/evnt_a576b">EVNT_002</a></p>
 <hr>
+<p><a href="https://kodaktor.ru/startask_0fd86">STARTASK</a></p>
+<hr>
 
