@@ -9,3 +9,6 @@
 <p><a href="https://kodaktor.ru/func_0968f">FUNC_003</a></p>
 <br>
 <p><a href="https://kodaktor.ru/func_385ca">FUNC_004</a></p>
+<br>
+<p><a href="https://kodaktor.ru/func_8f230">FUNC_004</a></p>
+
