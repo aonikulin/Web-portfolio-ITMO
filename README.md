@@ -1,7 +1,7 @@
 # Web-portfolio-ITMO
 Дисциплина: <b>Проектирование и анализ языков веб-решений</b>
 <br>
-Никулин Андрей
+<b>Никулин Андрей</b>
 <br>
 <hr>
 <p><a href="https://kodaktor.ru/task_func_c0eae">FUNC_001</a></p>
