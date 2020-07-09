@@ -34,4 +34,6 @@
 <hr>
 <p><a href="https://kodaktor.ru/startask_0fd86">STARTASK</a></p>
 <hr>
+<p><a href="https://kodaktor.ru/tern_bcaf4">TERN_001</a></p>
+<hr>
 
