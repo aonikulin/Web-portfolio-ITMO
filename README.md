@@ -19,5 +19,6 @@
 <p><a href="https://kodaktor.ru/func_32ab3">FUNC_008</a></p>
 <br>
 <p><a href="https://kodaktor.ru/func_0059a">FUNC_009</a></p>
-  
+<br>
+<p><a href="https://kodaktor.ru/func_82b68">FUNC_010</a></p>  
   
